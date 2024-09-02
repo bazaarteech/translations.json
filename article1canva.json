@@ -738,5 +738,63 @@
                 }
             ]
         }
-     }
-}, },
+     },
+    
+    "default": {
+        "article1": {
+            "title": "How Canva Premium Helps Content Creators and Influencers Level Up",
+            "sections": [
+                {
+                    "title": "",
+                    "content": "In today’s fast-paced world, visual content is king when it comes to grabbing attention and building connections with your audience. Whether you're a content creator, social media influencer, marketer, freelancer, or agency owner, Canva Premium is the tool that’ll bring your creativity to life."
+                },
+                {
+                    "title": "<strong style='color:#ff6f61;'>What is Canva Premium?</strong>",
+                    "content": "Canva Premium is the upgraded version of the well-known Canva platform, designed specifically to meet the needs of professionals and creatives. Even if you're not a design expert, Canva Premium offers professional tools and templates to help you create stunning content quickly and easily."
+                },
+                {
+                    "title": "<strong style='color:#4caf50;'>Why Do You Need Canva Premium?</strong>",
+                    "content": "If you're aiming to build a strong presence on social media or effectively promote your brand, Canva Premium is your go-to solution. With advanced tools, you can create eye-catching, engaging designs that boost interaction with your audience."
+                },
+                {
+                    "title": "<strong style='color:#2196f3;'>How to Make the Most of Canva Premium?</strong>",
+                    "content": [
+                        "Access to a vast resource library: Canva Premium gives you access to thousands of exclusive photos, videos, icons, and fonts, helping you design content that aligns with your brand's visual identity and captures your audience's attention.",
+                        "Create professional-quality content: With Canva Premium, you can design visuals that look like they were made by pros. Easily edit photos, add special effects, and use collaborative tools to work flexibly with your team members.",
+                        "Save time and effort: Instead of starting designs from scratch, save time by leveraging Canva Premium’s ready-made templates and smart features, allowing you to focus more on creativity."
+                    ]
+                },
+                {
+                    "title": "<strong style='color:#e91e63;'>Benefits of Canva Premium:</strong>",
+                    "content": [
+                        "Unlimited editing capability: Change any element in your design at any time to suit your needs.",
+                        "Royalty-free content: Use visual assets without worrying about copyright issues.",
+                        "Collaborate with your team: Easily share your work with team members or clients, increasing productivity and supporting effective communication.",
+                        "Content organization and scheduling: Organize your content and use the scheduling feature to share at the optimal times for maximum impact."
+                    ]
+                },
+                {
+                    "title": "<strong style='color:#ff5722;'>Original Price vs. Our Discounted Price:</strong>",
+                    "content": "The monthly subscription to Canva Premium might seem pricey to some, but when you consider the benefits and possibilities it offers, you’ll see that the investment is more than reasonable. Through our special offer, you can enjoy the same advantages at a significantly reduced cost."
+                },
+                {
+                    "title": "<strong style='color:#673ab7;'>How to Get Your Subscription?</strong>",
+                    "content": "Once you select your subscription, you'll gain instant access to all Canva Premium features. A subscription confirmation will be sent directly to your email, along with simple instructions on how to activate your account and start using the advanced tools right away."
+                },
+                {
+                    "title": "<strong style='color:#ff9800;'>How Canva Premium Helps You Outshine Your Competitors:</strong>",
+                    "content": "With professional tools and unique features, you can create content that outperforms your competitors. By leveraging the extensive resource library and collaboration capabilities, you can develop effective marketing campaigns and captivating designs that enhance your brand's value and improve engagement rates."
+                },
+                {
+                    "title": "",
+                    "content": "Canva Premium isn’t just a design tool, it’s a strategic partner that helps you achieve your creative and marketing goals with maximum efficiency. Whether you’re looking to increase social media engagement or improve content quality for your clients, Canva Premium is the perfect solution to reach these objectives."
+                },
+                {
+                    "title": "",
+                    "content": "Join millions of creatives worldwide and start using Canva Premium today to achieve unparalleled success."
+                }
+            ]
+        }
+    }
+},
+
